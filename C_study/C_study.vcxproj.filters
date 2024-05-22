@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Variable.cpp">
+    <ClCompile Include="StringArray.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
