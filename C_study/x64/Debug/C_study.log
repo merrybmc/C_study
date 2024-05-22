@@ -1,3 +1,4 @@
-﻿  ConditionLoop.cpp
-C:\Users\User\Desktop\C_study\C_study\ConditionLoop.cpp(11,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+﻿  Array.cpp
+C:\Users\User\Desktop\C_study\C_study\Array.cpp(7,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\User\Desktop\C_study\C_study\Array.cpp(26,6): warning C4101: 'value' :참조되지 않은 지역 변수입니다.
   C_study.vcxproj -> C:\Users\User\Desktop\C_study\x64\Debug\C_study.exe
